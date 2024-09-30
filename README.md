@@ -37,7 +37,6 @@ Este projeto é um sistema de gerenciamento de capivaras para um zoológico. Ele
   API Back-end rodando em `http://localhost:5001/api/capivaras)`
 
 
-  ### 6. FOTOS DO PROJETO RODANDO
 
 ### 5. FOTOS DO PROJETO RODANDO: 
 
