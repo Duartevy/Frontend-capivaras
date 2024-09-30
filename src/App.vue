@@ -1,17 +1,18 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app">
+    <CapivaraList />
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import CapivaraList from './components/CapivaraList.vue';  // Importando o componente de lista
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    CapivaraList  // Registrando o componente
   }
-}
+};
 </script>
 
 <style>
